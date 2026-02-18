@@ -73,9 +73,9 @@ This license shall be governed by the laws of the Russian Federation, without re
 ### 💼 Коммерческое использование:
 Для коммерческого использования необходимо получить отдельную коммерческую лицензию у Автора.
 
-**Автор:** [antbled]  
-**Контакты:** [tg: @antbled, email: a.gurulyow@yandex.ru]  
-**Проект:** [MVP Telegram bot]
+**Автор:** [antbled.code]  
+**Контакты:** [tg: @antbled, email: a.gurulyow@icloud.com]  
+**Проект:** [Send application from fedresurse]
 
 ---
 
